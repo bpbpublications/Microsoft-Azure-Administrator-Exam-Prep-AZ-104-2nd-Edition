@@ -1,0 +1,17 @@
+1.	{
+2.	  "Name": "BPB_Contributor",
+3.	  "IsCustom": false,
+4.	  "Description": "Lets you manage everything except access to resources.",
+5.	  "Actions": [
+6.	    " Microsoft.Authorization/*/Delete",
+7.	    "Microsoft.Authorization/*/Write",    "Microsoft.Authorization/elevateAccess/Action",    "Microsoft.Blueprint/blueprintAssignments/write",    "
+8.	  ],
+9.	  "NotActions": [
+10.	    "
+11.	"Microsoft.Blueprint/blueprintAssignments/delete"
+12.	  "DataActions": [],
+13.	  "NotDataActions": [],
+14.	  "AssignableScopes": [
+15.	    "/"
+16.	  ]
+17.	}
