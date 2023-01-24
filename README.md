@@ -3,7 +3,7 @@
 Step by step exam guide to learn Microsoft Azure Administration with hands-on labs
 
 This is the repository for [Microsoft Azure Administrator Exam Prep (AZ-104) - 2nd Edition
-](https://in.bpbonline.com/products/microsoft-azure-administrator-exam-prep-az-104-2nd-edition?variant=43679124914414),published by BPB Publications. 
+](https://bpbonline.com/products/microsoft-azure-administrator-exam-prep-az-104-2nd-edition),published by BPB Publications. 
 
 ## About the Book
 In cloud computing, getting certified as an Azure Administrator is one of the most highly sought-after sets of abilities. Author Lalit Rawat brings the lab's experience to this updated and extended second edition to help you launch your test preparation with the practical practice of how a certified Azure administrator handles enterprise cloud architecture.
